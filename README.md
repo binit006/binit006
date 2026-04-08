@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krishna Patel  
+# 👋 Hi, I'm Binit Rewani
 
 🎓 B.Tech CSE Student | 💻 Aspiring Data Scientist | 🚀 Tech Enthusiast  
 
