@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="70"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantRayal2006&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binit006&theme=radical"/>
 </p>
 
 ---
