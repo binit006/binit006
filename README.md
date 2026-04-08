@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Binit Rewani
+# 👋 Hi, I'm Binit Rawani
 
 🎓 B.Tech CSE Student | 💻 Aspiring Data Scientist | 🚀 Tech Enthusiast  
 
@@ -56,7 +56,7 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=binit006&theme=radical)
 
 ---
 
