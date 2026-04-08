@@ -50,7 +50,9 @@
 
 ## 📈 GitHub Stats
 
-![Binit's GitHub stats](https://github-readme-stats.vercel.app/api?username=binit006&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binit006&show_icons=true&theme=radical)
 
 ---
 
