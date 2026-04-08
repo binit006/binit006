@@ -50,8 +50,6 @@
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=binit006&show_icons=true&theme=radical)
 
 ---
