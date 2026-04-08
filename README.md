@@ -50,9 +50,9 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binit006&show_icons=true&theme=radical" />
-</p>
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=binit006&show_icons=true&theme=radical)
 
 ---
 ## 🔥 Streak Stats
