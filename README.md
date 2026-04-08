@@ -1,11 +1,5 @@
-# 👋 Hi, I'm Binit Rawani
-
-🎓 B.Tech CSE Student | 💻 Aspiring Data Scientist | 🚀 Tech Enthusiast  
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,8b0000,ff0000&height=200&section=header&text=Hi%20👋,%20I'm%20Anant&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,8b0000,ff0000&height=200&section=header&text=Hi%20👋,%20I'm%20Binit&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0000ff&size=35&center=true&vCenter=true&width=550&lines=Software+Engineer;Python+Developer;DSA+Learner;Building+Cool+Projects"/>
