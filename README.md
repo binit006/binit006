@@ -50,7 +50,12 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=binit006&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="70"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantRayal2006&theme=radical"/>
+</p>
 
 ---
 ## 🔥 Streak Stats
