@@ -62,8 +62,8 @@
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME  
+- 💼 LinkedIn: https://linkedin.com/in/binit-rawani
+- 🧑‍💻 GitHub: https://github.com/binit006  
 
 ---
 
