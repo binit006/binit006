@@ -50,7 +50,7 @@
 
 ## 📈 GitHub Stats
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Binit's GitHub stats](https://github-readme-stats.vercel.app/api?username=binit006&show_icons=true&theme=radical)
 
 ---
 
